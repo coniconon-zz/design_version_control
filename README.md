@@ -1,4 +1,4 @@
-# Testing a new way to keep track of interface designs
+# Keeping track of interface designs
 
 This is possible using Git Large File Storage (Git LFS) to track Photoshop (.psd), Sketch (.sketch) and Illustrator (.ai) files
 
